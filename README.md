@@ -51,7 +51,7 @@ $db->update('table', $data, $where = array('id'=>12));
 
 #Other#
 
-**clean ' and \` **  
+clean ' and \`   
 ```
 $var = $db->clean('var'); 
 ```
